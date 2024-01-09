@@ -1,11 +1,8 @@
-
-import './App.css';
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="App">
-      <div className='mt-5 text-9xl'>Nmaste everyone</div>
-    </div>
+    <Body />
   );
 }
 
